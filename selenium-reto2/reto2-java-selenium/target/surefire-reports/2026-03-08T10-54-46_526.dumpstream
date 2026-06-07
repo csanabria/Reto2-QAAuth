@@ -1,0 +1,5 @@
+# Created at 2026-03-08T10:54:46.716
+Boot Manifest-JAR contains absolute paths in classpath 'I:\Diplomados2026\QAAuth\Retos\Reto 2 Pract\7Marzo\selenium-reto2\reto2-java-selenium\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
